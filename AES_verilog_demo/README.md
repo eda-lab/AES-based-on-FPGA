@@ -35,8 +35,7 @@
   - 各文件主要内容请参考文件中的注释。
 
   
-
-  ![](https://github.com/eda-lab/AES-based-on-FPGA/raw/master/AES_verilog_demo/RTL/代码关系图.png)
+![](https://github.com/eda-lab/AES-based-on-FPGA/raw/master/AES_verilog_demo/RTL/代码关系图.png)
 
 
 
