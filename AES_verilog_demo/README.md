@@ -36,9 +36,7 @@
 
   
 
-![image-20200423110748416](C:\Users\liupeng_Y500\AppData\Roaming\Typora\typora-user-images\image-20200423110748416.png)
-
-​																					代码关系图.png
+  ![](https://github.com/eda-lab/AES-based-on-FPGA/raw/master/AES_verilog_demo/RTL/代码关系图.png)
 
 
 
