@@ -36,7 +36,7 @@
 
   
 
-![](https://github.com/eda-lab/AES-based-on-FPGA/raw/master/AES_verilog_demo/RTL/代码关系图.png)
+![image](https://github.com/eda-lab/AES-based-on-FPGA/blob/master/AES_verilog_demo/RTL/%E4%BB%A3%E7%A0%81%E5%85%B3%E7%B3%BB%E5%9B%BE.png)
 
 ​																					代码关系图.png
 
